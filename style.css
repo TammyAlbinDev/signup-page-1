@@ -8,3 +8,8 @@ h1 {
     color: darkred;
     font-size: 3rem;
 }
+.box {
+    margin: 32px 0;
+    border: 4px solid darkred;
+    padding: 48px;
+}
